@@ -1,0 +1,23 @@
+.parameter{
+    width: 95%;
+    margin-top: 1rem;
+}
+
+.line-chart1, .line-chart2{
+    width: 45%;
+}
+
+.line-chart1{
+    margin-top: 3px;
+}
+
+.charts{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
